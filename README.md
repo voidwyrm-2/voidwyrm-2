@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 -->
 
 Hello! I'm Nuclear Pasta
+
 I am an idiot who enjoys modding
 
-Lanuages I know: Java, C#, Cosmoteer's custom lanuage, Lua(barely), and Python(not really)
+Lanuages I know: Java☕️, C#🔪, Cosmoteer's custom language🚀, Lua(barely), and Python🐍(not really)
 
 I'm currently learning: Node.js so i can make a discord bot(help)
 
-games I've modded: Minecraft, Rain World, Teardown, No Man's Sky
+games I've modded: Minecraft🧱, Rain World🌧️, Teardown🔨, No Man's Sky🪐
 
 funfact: Pelicans can stay in the air for 24 hours

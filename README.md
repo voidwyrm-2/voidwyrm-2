@@ -1,6 +1,6 @@
 Hello, I'm Nuclear Pasta, an idiot who enjoys modding
 
-Languages I know: Java, C#, Cosmoteer's custom language(CL), Lua
+Languages I know: Java, C#, Cosmoteer's custom language(CL), Lua, Javascript
 
 games I've modded: Minecraft, Rain World, Cosmoteer, Teardown, No Man's Sky
 

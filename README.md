@@ -8,5 +8,5 @@ How you can reach me(for whatever reason): uuhhh I don’t know man, Discord, I 
 
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<!--<p align="center">--
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />-->

@@ -7,6 +7,8 @@ games I've modded: Minecraft, Rain World(I hate IL hooks), Cosmoteer(I hate file
 How you can reach me(for whatever reason): uuhhh I don’t know man, Discord, I guess?(you can find me on all the servers of the games I've mentioned except Minecraft)
 
 
+![Radioactivity's GitHub stats](https://github-readme-stats.vercel.app/api?username=voidwyrm-2&show_icons=true&theme=synthwave)
+
 
 <!--<p align="center">--
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />-->

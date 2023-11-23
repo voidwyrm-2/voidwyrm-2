@@ -1,6 +1,6 @@
 Hello, I'm Nuclear Pasta, an idiot who enjoys modding
 
-#Languages I know;
+Languages I know;
 * Java, 
 * C#, 
 * Cosmoteer's custom language(CL), 
@@ -8,7 +8,7 @@ Hello, I'm Nuclear Pasta, an idiot who enjoys modding
 * GDScript, 
 * Javascript
 
-# games I've modded;
+games I've modded;
 * Minecraft, 
 * Rain World(I hate IL hooks), 
 * Cosmoteer(I hate filepaths), 

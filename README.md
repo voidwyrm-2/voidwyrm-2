@@ -10,7 +10,7 @@ Hello, I'm Nuclear Pasta, an idiot who enjoys modding
 * Cosmoteer's custom language(CL), 
 * Lua, 
 * GDScript, 
-* Javascript
+* Javascript(questionable)
 
 **Games I've modded;**
 * Minecraft, 

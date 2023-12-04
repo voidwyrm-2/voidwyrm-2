@@ -20,7 +20,7 @@ Hello, I'm Nuclear Pasta, an idiot who enjoys modding
 * No Man's Sky, 
 * Dome Keeper, 
 * Oxygen Not Included(I hate patching), 
-* Lethal Company(game of the year 2023 and the best ten dollars I ever spent ...but I still hate patching) 
+* Lethal Company(the best ten dollars I ever spent ...but I still hate patching) 
 
 
 **How you can reach me(for whatever reason):** uuhhh I don’t know man, Discord, I guess?(you can find me on all the servers of the games I've mentioned except Minecraft)

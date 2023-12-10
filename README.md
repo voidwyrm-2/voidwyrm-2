@@ -11,6 +11,7 @@ Hello, I'm Nuclear Pasta, an idiot who enjoys modding
 * Lua, 
 * GDScript, 
 * Javascript(questionable)
+* Python
 
 **Games I've modded;**
 * Minecraft, 

@@ -36,7 +36,6 @@ Hello, I'm Nuclear Pasta, an idiot who enjoys modding
   This is to remind me how to do this fancy thing
   
   Feel free to copy this
-  
   I think it's really cool
 </details>
 

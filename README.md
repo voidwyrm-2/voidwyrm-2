@@ -29,5 +29,13 @@ Hello, I'm Nuclear Pasta, an idiot who enjoys modding
 ![Radioactivity's GitHub stats](https://github-readme-stats.vercel.app/api?username=voidwyrm-2&show_icons=true&theme=synthwave)
 
 
+
+
+<details>
+  <summary>You can click this arrow</summary>
+  This is to remind me how to do this fancy thing
+</details>
+
+
 <!--<p align="center">--
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />-->

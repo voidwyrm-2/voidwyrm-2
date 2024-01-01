@@ -33,8 +33,10 @@ Hello, I'm Nuclear Pasta, an idiot who enjoys modding
 
 <details>
   <summary>You can click this arrow, btw</summary>
-  This is to remind me how to do this fancy thing\n
-  Feel free to copy this\n
+  This is to remind me how to do this fancy thing
+  
+  Feel free to copy this
+  
   I think it's really cool
 </details>
 

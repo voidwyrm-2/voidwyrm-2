@@ -14,6 +14,7 @@ Hello, I'm Nuclear Pasta, an idiot who enjoys modding
 * Lua, 
 * GDScript, 
 * Python
+* my custom language, pyil
 
 **Games I've modded:**
 * Minecraft, 

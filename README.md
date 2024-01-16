@@ -1,7 +1,10 @@
 Hello, I'm Nuclear Pasta, an idiot who enjoys modding
 
 **I'm currently working on:**
-* dying
+* learning Python
+* writing Python
+* obsessing over Python
+* please help Python is my current hyper-fixation I can't help please I can't escape I can't get out it will not let me go help
 
 
 **Languages I know:**

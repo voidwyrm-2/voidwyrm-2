@@ -27,7 +27,7 @@ Hello, I'm Nuclear Pasta, an idiot who enjoys modding
 * Lethal Company(the best ten dollars I ever spent ...but I still hate patching) 
 
 **Projects I'm working on currently:**
-* My own coding language, [pyil](
+* My own coding language, [pyil](https://github.com/voidwyrm-2/pyil)
 * A weird way to actively draw using python turtle, [TurtleSequencer](
 * A tic-tac-toe clone, [ToeTacTic](
 

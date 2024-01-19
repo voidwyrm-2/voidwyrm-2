@@ -4,7 +4,7 @@ Hello, I'm Nuclear Pasta, an idiot who enjoys modding
 * learning Python
 * writing Python
 * obsessing over Python
-* please help Python is my current hyper-fixation I can't help please I can't escape I can't get out it will not let me go help
+* please help Python is my current hyper-fixation I can't help please I can't escape I can't get out it will not let me go help it has me in its grasp like a boa constrictor despite the fact it's a python I don't know it's doing this help
 
 
 **Languages I know:**

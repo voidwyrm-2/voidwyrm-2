@@ -28,7 +28,7 @@ Hello, I'm Nuclear Pasta, an idiot who enjoys modding
 
 **Projects I'm working on currently:**
 * My own coding language, [pyil](https://github.com/voidwyrm-2/pyil)
-* A weird way to actively draw using python turtle, [TurtleSequencer](
+* A weird way to actively draw using python turtle, [TurtleSequencer](https://github.com/voidwyrm-2/TS)
 * A tic-tac-toe clone, [ToeTacTic](
 
 

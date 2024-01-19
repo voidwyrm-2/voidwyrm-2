@@ -26,6 +26,11 @@ Hello, I'm Nuclear Pasta, an idiot who enjoys modding
 * Oxygen Not Included(I hate patching), 
 * Lethal Company(the best ten dollars I ever spent ...but I still hate patching) 
 
+**Projects I'm working on currently:**
+* My own coding language, [pyil](
+* A weird way to actively draw using python turtle, [TurtleSequencer](
+* A tic-tac-toe clone, [ToeTacTic](
+
 
 **How you can reach me(for whatever reason):** uuhhh I don’t know man, Discord, I guess?(you can find me on all the servers of the games I've mentioned except Minecraft)
 

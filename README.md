@@ -36,7 +36,9 @@ Hello, I'm Nuclear Pasta, an idiot who enjoys modding
 **How you can reach me(for whatever reason):** uuhhh I don’t know man, Discord, I guess?(you can find me on all the servers of the games I've mentioned except Minecraft)
 
 
-![Radioactivity's GitHub stats](https://github-readme-stats.vercel.app/api?username=voidwyrm-2&show_icons=true&theme=synthwave)
+![voidwyrm-2](https://github-readme-stats.vercel.app/api?username=voidwyrm-2&show_icons=true&theme=synthwave)
+<!--'s GitHub stats-->
+![voidwyrm-2](https://github-readme-stats.vercel.app/api/top-langs?username=voidwyrm-2&show_icons=true&theme=synthwave&layout=compact)
 
 
 

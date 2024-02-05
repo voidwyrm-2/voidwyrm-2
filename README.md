@@ -14,7 +14,7 @@ Hello, I'm Nuclear Pasta, an idiot who enjoys modding
 * Lua, 
 * GDScript, 
 * Python
-* my custom language, pyil
+* ~~my custom language, pyil~~
 
 **Games I've modded:**
 * Minecraft, 
@@ -27,9 +27,10 @@ Hello, I'm Nuclear Pasta, an idiot who enjoys modding
 * Lethal Company(the best ten dollars I ever spent ...but I still hate patching) 
 
 **Projects I'm working on currently:**
-* My own coding language, [pyil](https://github.com/voidwyrm-2/pyil)
+* nothing I'm putting in a repo(it's too stupid)
+<!--* My own coding language, [pyil](https://github.com/voidwyrm-2/pyil)
 * A weird way to actively draw using python turtle, [TurtleSequencer](https://github.com/voidwyrm-2/TS)
-* A tic-tac-toe clone, [ToeTacTic](https://github.com/voidwyrm-2/ToeTacTic)
+* A tic-tac-toe clone, [ToeTacTic](https://github.com/voidwyrm-2/ToeTacTic)-->
 
 
 **How you can reach me(for whatever reason):** uuhhh I don’t know man, Discord, I guess?(you can find me on all the servers of the games I've mentioned except Minecraft)

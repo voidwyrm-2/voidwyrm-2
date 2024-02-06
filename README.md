@@ -14,7 +14,7 @@ Hello, I'm Nuclear Pasta, an idiot who enjoys modding
 * Lua, 
 * GDScript, 
 * Python
-* ~~my custom language, pyil~~
+<!--* ~~my custom language, pyil~~-->
 
 **Games I've modded:**
 * Minecraft, 
@@ -55,3 +55,6 @@ Hello, I'm Nuclear Pasta, an idiot who enjoys modding
 
 <!--<p align="center">--
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />-->
+
+
+![voidwyrm-2](https://raw.githubusercontent.com/BEPb/BEPb/5c39a90f4901b5c33d2e017f8ae74ead3d765ef9/assets/Bottom_down.svg)

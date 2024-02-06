@@ -57,4 +57,6 @@ Hello, I'm Nuclear Pasta, an idiot who enjoys modding
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />-->
 
 
+here's a funny wave I stole from [here](https://github.com/gnai)
+
 ![voidwyrm-2](https://raw.githubusercontent.com/BEPb/BEPb/5c39a90f4901b5c33d2e017f8ae74ead3d765ef9/assets/Bottom_down.svg)

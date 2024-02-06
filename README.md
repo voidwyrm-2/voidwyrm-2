@@ -13,7 +13,8 @@ Hello, I'm Nuclear Pasta, an idiot who enjoys modding
 * Cosmoteer's custom language(CL), 
 * Lua, 
 * GDScript, 
-* Python
+* Python,
+* also Python
 <!--* ~~my custom language, pyil~~-->
 
 **Games I've modded:**

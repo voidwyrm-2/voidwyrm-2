@@ -30,8 +30,8 @@ Hello, I'm Nuclear Pasta, an idiot who enjoys modding
 **Projects I'm working on currently:**
 * nothing
 <!--* nothing I'm putting in a repo(it's too stupid)-->
-<!--* My own [BASIC]()-like coding language [basicy](https://github.com/voidwyrm-2/basicy)
-* A weird way to actively draw using python turtle, [TurtleSequencer](https://github.com/voidwyrm-2/TS)
+* My own [BASIC](https://en.wikipedia.org/wiki/BASIC)-like coding language [basicy](https://github.com/voidwyrm-2/basicy)
+<!--* A weird way to actively draw using python turtle, [TurtleSequencer](https://github.com/voidwyrm-2/TS)
 * A tic-tac-toe clone, [ToeTacTic](https://github.com/voidwyrm-2/ToeTacTic)-->
 
 

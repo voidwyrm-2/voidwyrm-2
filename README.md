@@ -1,4 +1,4 @@
-Hello, I'm Nuclear Pasta, an idiot who enjoys modding
+gHello, I'm Nuclear Pasta, an idiot who enjoys modding
 
 **I'm currently working on:**
 * learning Python
@@ -30,9 +30,10 @@ Hello, I'm Nuclear Pasta, an idiot who enjoys modding
 **Projects I'm working on currently:**
 <!--* nothing-->
 <!--* nothing I'm putting in a repo(it's too stupid)-->
-* My own [BASIC](https://en.wikipedia.org/wiki/BASIC)-like coding language [basicy](https://github.com/voidwyrm-2/basicy)
+<!--* My own [BASIC](https://en.wikipedia.org/wiki/BASIC)-like coding language [basicy](https://github.com/voidwyrm-2/basicy)-->
 <!--* A weird way to actively draw using python turtle, [TurtleSequencer](https://github.com/voidwyrm-2/TS)
 * A tic-tac-toe clone, [ToeTacTic](https://github.com/voidwyrm-2/ToeTacTic)-->
+* a worse version of Brainfuck, Mathf
 
 
 **How you can reach me(for whatever reason):** uuhhh I don’t know man, Discord, I guess?(you can find me on all the servers of the games I've mentioned except Minecraft)

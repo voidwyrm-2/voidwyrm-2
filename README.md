@@ -33,7 +33,7 @@ gHello, I'm Nuclear Pasta, an idiot who enjoys modding
 <!--* My own [BASIC](https://en.wikipedia.org/wiki/BASIC)-like coding language [basicy](https://github.com/voidwyrm-2/basicy)-->
 <!--* A weird way to actively draw using python turtle, [TurtleSequencer](https://github.com/voidwyrm-2/TS)
 * A tic-tac-toe clone, [ToeTacTic](https://github.com/voidwyrm-2/ToeTacTic)-->
-* a worse version of Brainfuck, Mathf
+* a variant of Brainfrick, Mathf
 
 
 **How you can reach me:** You can find me on all the discord servers of the games I've mentioned except Minecraft

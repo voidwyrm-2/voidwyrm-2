@@ -53,5 +53,5 @@ Hello, I'm Nuclear Pasta, an idiot who enjoys modding
   
   I think it's really cool
 
-  [here's more cool things]
+  [here's more cool things](https://github.com/voidwyrm-2/voidwyrm-2/blob/main/cool-things.md)
 </details>

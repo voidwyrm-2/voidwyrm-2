@@ -18,7 +18,7 @@ Hello, I'm Nuclear Pasta, an idiot who enjoys modding
 * also Python
 <!--* ~~my custom language, pyil~~-->
 
-**Games I've modded:**
+<!--**Games I've modded:**
 * Minecraft, 
 * Rain World(I hate IL hooks), 
 * Cosmoteer(I hate filepaths), 
@@ -26,7 +26,7 @@ Hello, I'm Nuclear Pasta, an idiot who enjoys modding
 * No Man's Sky, 
 * Dome Keeper, 
 * Oxygen Not Included(I hate patching), 
-* Lethal Company(the best ten dollars I ever spent ...but I still hate patching) 
+* Lethal Company(the best ten dollars I ever spent ...but I still hate patching)-->
 
 **Projects I'm working on currently:**
 <!--* nothing-->

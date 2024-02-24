@@ -1,4 +1,4 @@
-gHello, I'm Nuclear Pasta, an idiot who enjoys modding
+Hello, I'm Nuclear Pasta, an idiot who enjoys modding
 
 **I'm currently working on:**
 * learning Python

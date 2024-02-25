@@ -1,9 +1,8 @@
 Hello, I'm Nuclear Pasta, an idiot who enjoys modding
 
 **I'm currently working on:**
-* learning Python
-* writing Python
-* kinda, sorta learning [Branflakes](https://en.wikipedia.org/wiki/brainfuck) for fun?
+* learning Webdev, HTML, and JavaScript(unfortunately)
+<!--* kinda, sorta learning [Branflakes](https://en.wikipedia.org/wiki/brainfuck) for fun?-->
 <!--* obsessing over Python
 * please help Python is my current hyper-fixation I can't help please I can't escape I can't get out it will not let me go help it has me in its grasp like a boa constrictor despite the fact it's a python I don't know it's doing this help-->
 
@@ -34,7 +33,8 @@ Hello, I'm Nuclear Pasta, an idiot who enjoys modding
 <!--* My own [BASIC](https://en.wikipedia.org/wiki/BASIC)-like coding language [basicy](https://github.com/voidwyrm-2/basicy)-->
 <!--* A weird way to actively draw using python turtle, [TurtleSequencer](https://github.com/voidwyrm-2/TS)
 * A tic-tac-toe clone, [ToeTacTic](https://github.com/voidwyrm-2/ToeTacTic)-->
-* a variant of Brainfrick, Mathf
+<!--* A variant of Brainfrick, Mathf-->
+* A self-contained collection of webpages(known as a "website" to some), [this... thing](https://voidwyrm-2.github.io/index)
 
 
 **How you can reach me:** You can find me on all the discord servers of the games I've mentioned except Minecraft

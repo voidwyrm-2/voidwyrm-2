@@ -41,9 +41,14 @@ Hello, I'm Nuclear Pasta, an idiot who enjoys modding
 
 <!--**How you can reach me:** You can find me on all the discord servers of the games I've mentioned except Minecraft-->
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=voidwyrm-2&layout=compact&theme=gotham)
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=voidwyrm-2&layout=compact&theme=synthwave)
+
 ![](https://raw.githubusercontent.com/voidwyrm-2/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/voidwyrm-2/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+<!--![](https://raw.githubusercontent.com/voidwyrm-2/github-stats/master/generated/languages.svg#gh-light-mode-only)-->
+
 
 
 <!--![voidwyrm-2](https://github-readme-stats.vercel.app/api?username=voidwyrm-2&show_icons=true&theme=synthwave)-->

@@ -21,7 +21,7 @@ I never really got into Java(besides, it just looks like more C# to me...)
 
 GDScript is just Python but, like, game-engine-ified
 
-I (kinda) learned Brain****... meh it's ok
+I learned Brain****... meh it's ok
 
 
 <!--**Languages I know:**

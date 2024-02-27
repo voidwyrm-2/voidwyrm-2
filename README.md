@@ -49,8 +49,8 @@ Hello, I'm Nuclear Pasta, an idiot who enjoys modding
 
 <!--![](https://raw.githubusercontent.com/voidwyrm-2/github-stats/master/generated/languages.svg#gh-light-mode-only)-->
 
-### Contribution Grid (Snake)
-![github contribution grid snake animation](https://raw.githubusercontent.com/voidwyrm-2/voidwyrm-2/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<!--### Contribution Grid (Snake)
+![github contribution grid snake animation](https://raw.githubusercontent.com/voidwyrm-2/voidwyrm-2/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)-->
 
 <!--![voidwyrm-2](https://github-readme-stats.vercel.app/api?username=voidwyrm-2&show_icons=true&theme=synthwave)-->
 <!--'s GitHub stats-->

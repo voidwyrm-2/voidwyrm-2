@@ -1,4 +1,4 @@
-Hello, I'm Nuclear Pasta, an idiot who enjoys modding
+Hello, I'm Nuclear Pasta, an idiot who enjoys not sleeping, aparently
 
 **I'm currently working on:**
 * learning Webdev, HTML, and JavaScript(unfortunately)

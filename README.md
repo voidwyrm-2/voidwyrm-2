@@ -6,8 +6,25 @@ Hello, I'm Nuclear Pasta, an idiot who enjoys modding
 <!--* obsessing over Python
 * please help Python is my current hyper-fixation I can't help please I can't escape I can't get out it will not let me go help it has me in its grasp like a boa constrictor despite the fact it's a python I don't know it's doing this help-->
 
+### My Completely Biased Opinions
+I like HTML and Python
 
-**Languages I know:**
+CSS is a pain
+
+Javascript... well, they say if you can't say anything nice, don't say anything at all
+
+I despise Lua
+
+I'm burned out on C#
+
+I never really got into Java(besides, it just looks like more C# to me...)
+
+GDScript is just Python but, like, game-engine-ified
+
+I (kinda) learned Brain****... meh it's ok
+
+
+<!--**Languages I know:**
 * Java, 
 * C#, 
 * Cosmoteer's custom language(CL), 
@@ -16,7 +33,7 @@ Hello, I'm Nuclear Pasta, an idiot who enjoys modding
 * Python,
 * also Python
 * HTML
-* Javascript
+* Javascript-->
 <!--* ~~my custom language, pyil~~-->
 
 <!--**Games I've modded:**

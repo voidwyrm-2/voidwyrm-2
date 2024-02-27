@@ -45,7 +45,7 @@ Hello, I'm Nuclear Pasta, an idiot who enjoys modding
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=voidwyrm-2&layout=compact&theme=synthwave)
 
-![](https://raw.githubusercontent.com/voidwyrm-2/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+<!--![](https://raw.githubusercontent.com/voidwyrm-2/github-stats/master/generated/languages.svg#gh-dark-mode-only)-->
 
 <!--![](https://raw.githubusercontent.com/voidwyrm-2/github-stats/master/generated/languages.svg#gh-light-mode-only)-->
 

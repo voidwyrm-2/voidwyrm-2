@@ -11,7 +11,7 @@ Hello, I'm Nuclear Pasta, an idiot who enjoys modding
 * Java, 
 * C#, 
 * Cosmoteer's custom language(CL), 
-* Lua, 
+* Lua(I despise Lua), 
 * GDScript, 
 * Python,
 * also Python

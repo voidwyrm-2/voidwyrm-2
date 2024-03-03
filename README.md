@@ -6,7 +6,7 @@ Hello, I'm Nuclear Pasta, an idiot who enjoys not sleeping, aparently
 <!--* obsessing over Python
 * please help Python is my current hyper-fixation I can't help please I can't escape I can't get out it will not let me go help it has me in its grasp like a boa constrictor despite the fact it's a python I don't know it's doing this help-->
 
-### My Completely Biased Opinions
+<!--### My Completely Biased Opinions
 I like HTML and Python
 
 CSS is a pain
@@ -21,7 +21,7 @@ I never really got into Java(besides, it just looks like more C# to me...)
 
 GDScript is just Python but, like, game-engine-ified
 
-I learned Brain****... meh it's ok
+I learned Brain****... meh it's ok-->
 
 
 <!--**Languages I know:**

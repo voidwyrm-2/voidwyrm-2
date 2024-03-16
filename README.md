@@ -1,7 +1,9 @@
 Hello, I'm Nuclear Pasta, an idiot who enjoys not sleeping, aparently
 
 **I'm currently working on:**
-* learning Webdev, HTML, and JavaScript(unfortunately)
+* learning raylib
+* making a custom shell in Python(freakin' love Python)
+<!--* learning Webdev, HTML, and JavaScript(unfortunately)-->
 <!--* kinda, sorta learning [Branflakes](https://en.wikipedia.org/wiki/brainfuck) for fun?-->
 <!--* obsessing over Python
 * please help Python is my current hyper-fixation I can't help please I can't escape I can't get out it will not let me go help it has me in its grasp like a boa constrictor despite the fact it's a python I don't know it's doing this help-->

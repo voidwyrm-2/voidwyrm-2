@@ -1,4 +1,4 @@
-I wanna see my language stats
+I wanna see my language stats<br>
 ![Voidwyrm-2's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=voidwyrm-2&hide=brainfuck&layout=compact&theme=synthwave)
 
 

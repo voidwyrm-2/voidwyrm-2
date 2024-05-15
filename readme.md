@@ -1,4 +1,4 @@
-**Languages I use the most**
+**My main languages**
 * Python
 * Go
 * JavaScript

@@ -4,6 +4,7 @@
 * JavaScript
 * Kotlin
 * Rust
+* Lua
 
 <br>
 

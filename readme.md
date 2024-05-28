@@ -15,7 +15,7 @@
 <br>
 
 I wanna see my language stats<br><br>
-![Voidwyrm-2's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=voidwyrm-2&hide=brainfuck,lua&layout=compact&theme=synthwave)
+![Voidwyrm-2's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=voidwyrm-2&hide=brainfuck,lua&layout=compact&theme=synthwave&langs-count=20)
 
 
 <p align="left">

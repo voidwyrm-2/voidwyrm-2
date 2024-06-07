@@ -1,3 +1,5 @@
+[![My Skills](https://skillicons.dev/icons?i=py,cs,rust,git,kotlin,go,js,html,css)](https://skillicons.dev)
+
 <br>
 
 I wanna see my language stats(the crap is "HyPhy"?)<br><br>

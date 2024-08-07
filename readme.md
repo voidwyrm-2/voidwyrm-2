@@ -1,7 +1,7 @@
-[![My Skills](https://skillicons.dev/icons?i=go,cs,swift,ruby,ts,git,kotlin,py,rust,js,html,css,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,cs,swift,ruby,ts,git,kotlin,py,rust,js,html,css,lua,asm)](https://skillicons.dev)
 <br>
 
-My favorites are definitely Go, C, Swift, Rust, Ruby, and C#<br>
+My favorites are definitely Go, C, C#, Swift, Ruby, Python, Rust(I'm sorry Ferris)<br>
 In that order
 
 <br>

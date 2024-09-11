@@ -2,7 +2,7 @@
 <br>
 
 My favorites are definitely Go, C, C#, Swift, Python, Rust(in that order)<br>
-C++, Haskell, and TypeScript get an honorable mention(also in that order)
+C++, Haskell, Lua, and TypeScript get an honorable mention(also in that order)
 
 
 <br>

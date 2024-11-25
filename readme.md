@@ -1,8 +1,9 @@
 [![My Skills](https://skillicons.dev/icons?i=go,cs,swift,ruby,ts,git,kotlin,py,rust,js,html,css,lua,neovim,vscode,apple,windows,npm,nodejs,idea,haskell,c,cpp,zig,blender)](https://skillicons.dev)
 <br>
 
-My favorites are definitely Go, Zig, C++, C, C#, Swift, Python, Rust(in that order)<br>
-Haskell, Lua, and JavaScript get an honorable mention(also in that order)
+My favorites are definitely Go, Zig, Java, and C<br>
+C++, C#, Swift, Python, and Rust are also somewhere on that list, albeit below the ones I already listed<br>
+Lua, Haskell, and JavaScript get an honorable mention(also in that order)
 
 
 <br>

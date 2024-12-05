@@ -5,6 +5,12 @@ My favorites are definitely Go, Zig, Java, and C<br>
 C++, C#, Swift, Python, and Rust are also somewhere on that list, albeit below the ones I already listed<br>
 Lua, Haskell, and JavaScript get an honorable mention(also in that order)
 
+<br>
+
+**Projects I'm proud of**
+* [Ferrite](<https://github.com/voidwyrm-2/ferrite>), A stack-oriented programming language
+* [Distra](<https://github.com/voidwyrm-2/distra>), A tool that makes building Go applications for many different distributions easier
+* [Raisin](<https://github.com/voidwyrm-2/raisin>), A VM-based superset of [Branflakes](<https://en.wikipedia.org/wiki/Brainfuck>)
 
 <br>
 

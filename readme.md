@@ -3,7 +3,7 @@
 
 My favorites are definitely Go, Zig, Nim, Java, and C<br>
 C++, C#, Swift, Python, and Rust are also somewhere on that list, albeit below the ones I already listed<br>
-Lua, Haskell, and JavaScript get an honorable mention(also in that order)
+Lua, Haskell, and JavaScript get an honorable mention
 
 <br>
 

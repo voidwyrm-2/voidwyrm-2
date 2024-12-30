@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=go,cs,ruby,git,py,js,html,css,lua,neovim,vscode,apple,windows,npm,nodejs,idea,c,cpp,zig,java,nim,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,cs,rust,swift,ruby,git,py,js,html,css,lua,neovim,vscode,apple,windows,npm,nodejs,idea,c,cpp,zig,java,nim,blender)](https://skillicons.dev)
 <br>
 
 My favorites are definitely Go, Zig, Nim, Java, and C<br>

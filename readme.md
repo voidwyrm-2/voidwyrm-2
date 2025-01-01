@@ -8,6 +8,7 @@ Lua, Haskell, and JavaScript get an honorable mention
 <br>
 
 **Projects I'm proud of**
+* [Velvet](<https://github.com/voidwyrm-2/velvet-vm>), A JVM- and CLR- like stack-based virtual machine
 * [Ferrite](<https://github.com/voidwyrm-2/ferrite>), A stack-oriented programming language
 * [Distra](<https://github.com/voidwyrm-2/distra>), A tool that makes building Go applications for many different distributions easier
 * [Raisin](<https://github.com/voidwyrm-2/raisin>), A VM-based superset of [Branflakes](<https://en.wikipedia.org/wiki/Brainfuck>)

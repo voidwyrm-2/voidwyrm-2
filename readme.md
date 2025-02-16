@@ -1,8 +1,8 @@
-[![My Skills](https://skillicons.dev/icons?i=go,cs,rust,swift,ruby,git,py,js,html,css,lua,neovim,vscode,apple,windows,npm,nodejs,idea,c,cpp,zig,java,nim,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,cs,rust,swift,ruby,git,py,js,html,css,lua,neovim,vscode,apple,windows,npm,nodejs,idea,c,cpp,zig,java,scala,nim,blender)](https://skillicons.dev)
 <br>
 
-My favorites are definitely Go, Zig, Nim, C#, Lua, and C<br>
-C++, C#, Swift, Python, Haskell, and Rust are also somewhere on that list, albeit below the ones I already listed<br>
+My favorites are definitely Go, Zig, Scala, Nim, C#, Lua, and C<br>
+C++, Swift, Python, Haskell, and Rust are also somewhere on that list, albeit below the ones I already listed<br>
 JavaScript gets a dishonorable mention
 
 <br>

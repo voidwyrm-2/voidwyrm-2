@@ -1,17 +1,15 @@
 [![My Skills](https://skillicons.dev/icons?i=go,cs,rust,swift,ruby,git,py,js,html,css,lua,neovim,vscode,apple,windows,npm,nodejs,idea,c,cpp,zig,java,scala,nim,blender)](https://skillicons.dev)
 <br>
 
-My favorites are definitely Go, Zig, Scala, Nim, C#, Lua, and C<br>
+My favorites are definitely Go, Zig, Scala, Nim, Java, Lua, and C<br>
 C++, Swift, Python, Haskell, and Rust are also somewhere on that list, albeit below the ones I already listed<br>
 JavaScript gets a dishonorable mention
 
 <br>
 
 **Projects I'm proud of**
-* [Opal](<https://github.com/voidwyrm-2/opal>), A complex-at-a-glance Perl and Haskell inspired language with hidden simplicity
 * [Velvet](<https://github.com/voidwyrm-2/velvet-vm>), A JVM- and CLR- like stack-based virtual machine
 * [Luext](<https://github.com/voidwyrm-2/luext>), A [Neo]Vim-like text editor made with Lua and the LÖVE game engine
-* [Ferrite](<https://github.com/voidwyrm-2/ferrite>), A stack-oriented programming language
 * [Distra](<https://github.com/voidwyrm-2/distra>), A tool that makes building Go applications for many different distributions easier
 * [Raisin](<https://github.com/voidwyrm-2/raisin>), A VM-based superset of [Branflakes](<https://en.wikipedia.org/wiki/Brainfuck>)
 

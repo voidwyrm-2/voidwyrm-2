@@ -1,9 +1,16 @@
 [![My Skills](https://skillicons.dev/icons?i=go,cs,rust,swift,ruby,git,py,js,html,css,lua,neovim,vscode,apple,windows,npm,nodejs,idea,c,cpp,zig,java,scala,nim,blender)](https://skillicons.dev)
 <br>
 
-My favorites are definitely Go, Rust, Zig, Scala, Nim, Java, Lua, and C<br>
-C++, Swift, Haskell are also somewhere on that list, albeit below the ones I already listed<br>
-JavaScript and Python get dishonorable mentions
+<!--
+what are you doing snooping around in here?
+-->
+**My primary languages**
+- Go
+- Rust
+- Zig
+- Java
+- Python
+- JavaScript
 
 <br>
 

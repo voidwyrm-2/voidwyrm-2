@@ -11,6 +11,7 @@ what are you doing snooping around in here?
 - Java
 - Python
 - JavaScript
+- Uiua
 
 <br>
 

@@ -5,13 +5,13 @@
 what are you doing snooping around in here?
 -->
 **My primary languages**
-- Go
-- Rust
-- Zig
-- Java
-- Python
-- JavaScript
-- Uiua
+- [Go](https://go.dev)
+- [Rust](https://www.rust-lang.org)
+- [Zig](https://ziglang.org)
+- [Java](https://en.m.wikipedia.org/wiki/Java_(programming_language))
+- [Python](https://www.python.org)
+- [JavaScript](https://en.m.wikipedia.org/wiki/JavaScript)
+- [Uiua](https://uiua.org)
 
 <br>
 

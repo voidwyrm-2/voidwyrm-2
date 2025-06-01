@@ -7,6 +7,7 @@ what are you doing snooping around in here?
 **My primary languages (in order of knowledge)**
 - [Python](https://www.python.org)
 - [Go](https://go.dev)
+- [Nim](https://nim-lang.org)
 - [JavaScript](https://en.m.wikipedia.org/wiki/JavaScript)
 - [Zig](https://ziglang.org)
 - [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))

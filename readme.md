@@ -21,7 +21,7 @@ what are you doing snooping around in here?
 * [RS-100](<https://github.com/voidwyrm-2/rs-100>), the assembly dialect from [TIS-100](<https://www.zachtronics.com/tis-100/>) in a natively runnable form.
 * [Raisin](<https://github.com/voidwyrm-2/raisin>), a VM-based superset of Brainf.
 
-**Projects that I don't recommend, but am still proud of**
+**Projects that I don't recommend using, but am still proud of**
 * [ANA](<https://github.com/voidwyrm-2/ana>), a functional scripting language written in Rust.
 * [Templ](<https://github.com/voidwyrm-2/templ>), a template generation tool.
 * [JIL](<https://github.com/voidwyrm-2/reqproc>), an interpreted language with manual memory management.

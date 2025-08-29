@@ -1,12 +1,12 @@
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,cs,rust,git,lua,neovim,vscode,apple,windows,npm,nodejs,idea,rider,c,cpp,zig,java,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,py,js,html,css,cs,rust,git,lua,neovim,vscode,apple,windows,npm,nodejs,idea,rider,c,cpp,zig,java,blender)](https://skillicons.dev)
 <br>
 
 <!--
 what are you doing snooping around in here?
 -->
 **My primary languages (in order of knowledge)**
-- [Python](https://www.python.org)
 - [Go](https://go.dev)
+- [Python](https://www.python.org)
 - [Rust](https://www.rust-lang.org) and [Zig](https://ziglang.org)
 - [JavaScript](https://en.m.wikipedia.org/wiki/JavaScript)/[TypeScript](https://en.m.wikipedia.org/wiki/TypeScript)
 - [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))

@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=go,py,js,html,css,cs,rust,git,lua,neovim,vscode,apple,windows,npm,nodejs,idea,rider,c,cpp,zig,java,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,py,js,html,css,cs,rust,git,lua,neovim,vscode,apple,windows,npm,nodejs,idea,rider,c,zig,java,blender)](https://skillicons.dev)
 <br>
 
 <!--

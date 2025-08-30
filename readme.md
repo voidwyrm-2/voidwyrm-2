@@ -1,3 +1,11 @@
+# Salutations
+
+I'm Nuclear Pasta, a software developer who lives inside neutron stars.
+
+I'm interesting in low-level programming, game modding and language design/development
+
+# My Skills
+
 [![My Skills](https://skillicons.dev/icons?i=go,py,js,html,css,cs,rust,git,lua,neovim,vscode,apple,windows,npm,nodejs,idea,rider,c,zig,java,blender)](https://skillicons.dev)
 <br>
 
